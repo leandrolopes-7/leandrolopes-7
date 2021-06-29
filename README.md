@@ -1,4 +1,4 @@
-Hello, my name is Leandro Lopes, Web and Mobile Developer ;)
+Hello, my name is Leandro Lopes, Web Developer ;)
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
