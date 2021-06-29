@@ -6,7 +6,7 @@ Hello, my name is Leandro Lopes, Web Developer ;)
 ![Leandro Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrolopes-7&theme=blue-green&show_icons=true)
 
 
-- 💻 &nbsp; C# | Java | JavaScript  
+- 💻 &nbsp; C# | Java
 - 🌐 &nbsp; HTML | CSS | JavaScript | NodeJs | AngularJs | ExpressJs
 - 🛢 &nbsp; MySQL | SQL Server | Oracle
 - ⚙️ &nbsp; Git | GitHub 
