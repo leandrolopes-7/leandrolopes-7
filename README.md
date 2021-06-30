@@ -7,7 +7,7 @@ Hello, my name is Leandro Lopes, Web Developer ;)
 
 
 - 💻 &nbsp; C# | Java
-- 🌐 &nbsp; HTML | CSS | JavaScript | NodeJs | AngularJs | ExpressJs
+- 🌐 &nbsp; HTML | CSS | JavaScript | Angular | NodeJs | ExpressJs
 - 🛢 &nbsp; MySQL | SQL Server | Oracle
 - ⚙️ &nbsp; Git | GitHub 
 - 🔧 &nbsp; Visual Studio Code | Visual Studio | Eclipse 
